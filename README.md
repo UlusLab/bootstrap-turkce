@@ -7,26 +7,26 @@
 [![devDependency Status](https://img.shields.io/david/dev/twbs/bootstrap.svg)](https://david-dm.org/twbs/bootstrap#info=devDependencies)
 [![Selenium Test Status](https://saucelabs.com/browser-matrix/bootstrap.svg)](https://saucelabs.com/u/bootstrap)
 
-Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thornton](https://twitter.com/fat), and maintained by the [core team](https://github.com/orgs/twbs/people) with the massive support and involvement of the community.
+Bootstrap hızlı ve daha kolay web geliştirmek için şık, duyarlı ve güçlü bir front-end framework'tür. [Mark Otto](https://twitter.com/mdo) ve [Jacob Thornton](https://twitter.com/fat) tarafından oluşturulmuş bugün [çekirdek ekibi](https://github.com/orgs/twbs/people) ve toplumsal desteği ile geliştirlmektedir.
 
-To get started, check out <http://getbootstrap.com>!
+Başlamak için <http://getbootstrap.com> adresine göz atın!
 
-## Table of contents
+## İçerik tablosu
 
-* [Quick start](#quick-start)
-* [Bugs and feature requests](#bugs-and-feature-requests)
-* [Documentation](#documentation)
-* [Contributing](#contributing)
-* [Community](#community)
-* [Versioning](#versioning)
-* [Creators](#creators)
-* [Copyright and license](#copyright-and-license)
+* [Hızlı başlangıç](#quick-start)
+* [Hatalar ve özellik istekleri](#bugs-and-feature-requests)
+* [Dökümanlar](#documentation)
+* [Katkıda bulunmak](#contributing)
+* [Topluluk](#community)
+* [Versiyonlama](#versioning)
+* [Oluşturucular](#creators)
+* [Telif hakkı ve lisans](#copyright-and-license)
 
-## Quick start
+## Hızlı Başlangıç
 
-Several quick start options are available:
+Hızlı başlangıç için mevcut seçenekler:
 
-* [Download the latest release](https://github.com/twbs/bootstrap/archive/v3.3.5.zip).
+* [Son sürümü indir](https://github.com/twbs/bootstrap/archive/v3.3.5.zip).
 * Clone the repo: `git clone https://github.com/twbs/bootstrap.git`.
 * Install with [Bower](http://bower.io): `bower install bootstrap`.
 * Install with [npm](https://www.npmjs.com): `npm install bootstrap`.
