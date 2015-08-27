@@ -13,7 +13,7 @@ Başlamak için <http://getbootstrap.com> adresine göz atın!
 
 ## İçerik tablosu
 
-* [Hızlı başlangıç](#quick-start)
+* [Hızlı başlangıç](#hızlı-başlangıç)
 * [Hatalar ve özellik istekleri](#bugs-and-feature-requests)
 * [Dökümanlar](#documentation)
 * [Katkıda bulunmak](#contributing)
